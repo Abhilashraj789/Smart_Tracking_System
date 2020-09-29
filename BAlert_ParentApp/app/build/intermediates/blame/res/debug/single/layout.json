@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/mahima/Downloads/BAlert_ParentApp/app/build/intermediates/res/merged/debug/layout/alerts_entry_view.xml",
+        "source": "/home/mahima/Downloads/BAlert_ParentApp/app/src/main/res/layout/alerts_entry_view.xml"
+    },
+    {
+        "merged": "/home/mahima/Downloads/BAlert_ParentApp/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/mahima/Downloads/BAlert_ParentApp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/mahima/Downloads/BAlert_ParentApp/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
+        "source": "/home/mahima/Downloads/BAlert_ParentApp/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/mahima/Downloads/BAlert_ParentApp/app/build/intermediates/res/merged/debug/layout/activity_notify.xml",
+        "source": "/home/mahima/Downloads/BAlert_ParentApp/app/src/main/res/layout/activity_notify.xml"
+    },
+    {
+        "merged": "/home/mahima/Downloads/BAlert_ParentApp/app/build/intermediates/res/merged/debug/layout/activity_help.xml",
+        "source": "/home/mahima/Downloads/BAlert_ParentApp/app/src/main/res/layout/activity_help.xml"
+    },
+    {
+        "merged": "/home/mahima/Downloads/BAlert_ParentApp/app/build/intermediates/res/merged/debug/layout/activity_my.xml",
+        "source": "/home/mahima/Downloads/BAlert_ParentApp/app/src/main/res/layout/activity_my.xml"
+    },
+    {
+        "merged": "/home/mahima/Downloads/BAlert_ParentApp/app/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/home/mahima/Downloads/BAlert_ParentApp/app/src/main/res/layout/activity_about.xml"
+    }
+]

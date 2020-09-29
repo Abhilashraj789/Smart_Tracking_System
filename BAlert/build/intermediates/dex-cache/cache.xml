@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/mahima/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/mahima/BAlert/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_92944ef2fd5fd091e17e1455f8bf01fb8fb8cdc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mahima/BAlert/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/mahima/BAlert/app/build/intermediates/pre-dexed/debug/com.android.volley-volley-1.0.0_f977856a52ed69caef23177745588c34bb106821.jar" />
+    </item>
+
+</items>

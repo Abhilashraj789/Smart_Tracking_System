@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/drawable-hdpi/busicon.png",
+        "source": "/home/mahima/BAlert/app/src/main/res/drawable-hdpi/busicon.png"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/drawable-hdpi/view.png",
+        "source": "/home/mahima/BAlert/app/src/main/res/drawable-hdpi/view.png"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/mahima/BAlert/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/drawable-hdpi/delete.png",
+        "source": "/home/mahima/BAlert/app/src/main/res/drawable-hdpi/delete.png"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/drawable-hdpi/profile_pic.png",
+        "source": "/home/mahima/BAlert/app/src/main/res/drawable-hdpi/profile_pic.png"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/drawable-hdpi/add.png",
+        "source": "/home/mahima/BAlert/app/src/main/res/drawable-hdpi/add.png"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/drawable-hdpi/update.png",
+        "source": "/home/mahima/BAlert/app/src/main/res/drawable-hdpi/update.png"
+    }
+]

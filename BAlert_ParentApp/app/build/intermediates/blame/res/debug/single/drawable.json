@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/mahima/Downloads/BAlert_ParentApp/app/build/intermediates/res/merged/debug/drawable/location.png",
+        "source": "/home/mahima/Downloads/BAlert_ParentApp/app/src/main/res/drawable/location.png"
+    },
+    {
+        "merged": "/home/mahima/Downloads/BAlert_ParentApp/app/build/intermediates/res/merged/debug/drawable/set.png",
+        "source": "/home/mahima/Downloads/BAlert_ParentApp/app/src/main/res/drawable/set.png"
+    },
+    {
+        "merged": "/home/mahima/Downloads/BAlert_ParentApp/app/build/intermediates/res/merged/debug/drawable/exit.png",
+        "source": "/home/mahima/Downloads/BAlert_ParentApp/app/src/main/res/drawable/exit.png"
+    },
+    {
+        "merged": "/home/mahima/Downloads/BAlert_ParentApp/app/build/intermediates/res/merged/debug/drawable/busicon.png",
+        "source": "/home/mahima/Downloads/BAlert_ParentApp/app/src/main/res/drawable/busicon.png"
+    },
+    {
+        "merged": "/home/mahima/Downloads/BAlert_ParentApp/app/build/intermediates/res/merged/debug/drawable/balert.png",
+        "source": "/home/mahima/Downloads/BAlert_ParentApp/app/src/main/res/drawable/balert.png"
+    },
+    {
+        "merged": "/home/mahima/Downloads/BAlert_ParentApp/app/build/intermediates/res/merged/debug/drawable/help.png",
+        "source": "/home/mahima/Downloads/BAlert_ParentApp/app/src/main/res/drawable/help.png"
+    },
+    {
+        "merged": "/home/mahima/Downloads/BAlert_ParentApp/app/build/intermediates/res/merged/debug/drawable/background.jpg",
+        "source": "/home/mahima/Downloads/BAlert_ParentApp/app/src/main/res/drawable/background.jpg"
+    },
+    {
+        "merged": "/home/mahima/Downloads/BAlert_ParentApp/app/build/intermediates/res/merged/debug/drawable/service.png",
+        "source": "/home/mahima/Downloads/BAlert_ParentApp/app/src/main/res/drawable/service.png"
+    },
+    {
+        "merged": "/home/mahima/Downloads/BAlert_ParentApp/app/build/intermediates/res/merged/debug/drawable/about.png",
+        "source": "/home/mahima/Downloads/BAlert_ParentApp/app/src/main/res/drawable/about.png"
+    },
+    {
+        "merged": "/home/mahima/Downloads/BAlert_ParentApp/app/build/intermediates/res/merged/debug/drawable/nielogo.png",
+        "source": "/home/mahima/Downloads/BAlert_ParentApp/app/src/main/res/drawable/nielogo.png"
+    },
+    {
+        "merged": "/home/mahima/Downloads/BAlert_ParentApp/app/build/intermediates/res/merged/debug/drawable/delete.png",
+        "source": "/home/mahima/Downloads/BAlert_ParentApp/app/src/main/res/drawable/delete.png"
+    }
+]

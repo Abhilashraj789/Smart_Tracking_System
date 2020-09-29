@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/menu/authorization.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/menu/authorization.xml"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/menu/add__student.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/menu/add__student.xml"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/menu/alert_confirmation.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/menu/alert_confirmation.xml"
+    }
+]

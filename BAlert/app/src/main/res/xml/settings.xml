@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="Alert Service" >
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="Alert"
+            android:summary="On/Off"
+            android:title="Alert Message Service" >
+        </CheckBoxPreference>
+
+        <EditTextPreference
+            android:dependency="Alert"
+            android:key="m1"
+            android:summary="Click Here To Enter"
+            android:title="Message For Morning" />
+        <EditTextPreference
+            android:dependency="Alert"
+            android:key="m2"
+            android:summary="Click Here To Enter"
+            android:title="Message For Evening" />
+
+        <PreferenceScreen
+            android:key="m3"
+            android:summary="Click here to set emergency message"
+            android:title="Emergency Message" >
+            <EditTextPreference
+                android:key="m31"
+                android:summary="Click Here To Enter"
+                android:title="Message For Tyre Puncture" />
+            <EditTextPreference
+                android:key="m32"
+                android:summary="Click Here To Enter"
+                android:title="Message For Engine Failure" />
+            <EditTextPreference
+                android:key="m33"
+                android:summary="Click Here To Enter"
+                android:title="Message For Accident" />
+        </PreferenceScreen>
+
+        <EditTextPreference
+            android:dependency="Alert"
+            android:key="m4"
+            android:summary="Click Here To Enter"
+            android:title="Message When Bus Reach School" />
+        <EditTextPreference
+            android:dependency="Alert"
+            android:key="m5"
+            android:summary="Set Distance"
+            android:title="Set Distance" />
+
+        <sbas.sbts.TimePreference android:title="Set Time For Morning" />
+
+        <sbas.sbts.TimePreference1 android:title="Set Time For Evening" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Location Tracking Service" >
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="ltservice"
+            android:summary="On/Off"
+            android:title="Location Tracker" >
+        </CheckBoxPreference>
+
+        <EditTextPreference
+            android:key="LT_key"
+            android:summary="Set keyword to be sent through message"
+            android:title="Keyword" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Change Password" >
+        <EditTextPreference
+            android:key="sbtspass"
+            android:summary="Click here to Change Password"
+            android:title="Change Password" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="School GeoPoints" >
+        <EditTextPreference
+            android:key="latitude"
+            android:summary="Click here to set school latitude"
+            android:title="Set Latitude" />
+        <EditTextPreference
+            android:key="longitude"
+            android:summary="Click here to set school longitude"
+            android:title="Set Longitude" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

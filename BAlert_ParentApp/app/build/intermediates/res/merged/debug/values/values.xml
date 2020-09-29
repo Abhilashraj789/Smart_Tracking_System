@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">bAlert system helps the school to track the movement of their school bus so that an alert can be sent to parents through SMS when the bus reaches within predefined range of their house. It also sends an SMS when the child reaches the school. An emergency message can be sent whenever there is an emergency condition like tyre puncture, engine failure etc. So, make the parents feel safe about their child with this app!</string>
+    <string name="app_name">BAlert_ParentApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="help">* Click on \'Query Location\' button to know bus\' current location \n * Click on \'Absent\' button if u dont go to school today! \n * Click on \'Settings\' to set bus device number</string>
+    <string name="menu_settings">Settings</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

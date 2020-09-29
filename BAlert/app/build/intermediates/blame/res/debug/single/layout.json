@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/layout/delete_student.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/layout/delete_student.xml"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/layout/activity_emergency_alerts.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/layout/activity_emergency_alerts.xml"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/layout/about.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/layout/about.xml"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/layout/detailview.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/layout/detailview.xml"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/layout/alerts_entry_view.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/layout/alerts_entry_view.xml"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/layout/activity_change_password.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/layout/activity_change_password.xml"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/layout/edit_student.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/layout/edit_student.xml"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/layout/activity_add_student.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/layout/activity_add_student.xml"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/layout/menu.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/layout/menu.xml"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/layout/alert_confirmation.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/layout/alert_confirmation.xml"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/layout/activity_update_authority_contact.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/layout/activity_update_authority_contact.xml"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/layout/view_student.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/layout/view_student.xml"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/layout/contacts_view.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/layout/contacts_view.xml"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/layout/emer_list.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/layout/emer_list.xml"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/layout/authorization.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/layout/authorization.xml"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/layout/update_student.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/layout/update_student.xml"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/layout/getaddress.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/layout/getaddress.xml"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/layout/activity_authority_contact_add.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/layout/activity_authority_contact_add.xml"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/layout/splash_layout.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/layout/splash_layout.xml"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/layout/sbts.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/layout/sbts.xml"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/layout/acivity_authority_contacts.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/layout/acivity_authority_contacts.xml"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/layout/activity_set_school_location.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/layout/activity_set_school_location.xml"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/layout/list_row.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/layout/list_row.xml"
+    },
+    {
+        "merged": "/home/mahima/BAlert/app/build/intermediates/res/merged/debug/layout/student_entry_view.xml",
+        "source": "/home/mahima/BAlert/app/src/main/res/layout/student_entry_view.xml"
+    }
+]
